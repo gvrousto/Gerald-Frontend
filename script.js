@@ -1,4 +1,4 @@
-let serverip = 'http://kevincardona1.pythonanywhere.com/'
+let serverip = 'https://kevincardona1.pythonanywhere.com/'
 
 let search_results = document.getElementById("searchResults");
 let searchbar = document.getElementById('searchbar');
